@@ -1,2 +1,2 @@
-# excel
-my excel project
+# Excel
+My Excel Project
